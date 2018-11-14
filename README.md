@@ -3,7 +3,7 @@
 [![Join the chat at https://gitter.im/WorldDownTown/RangeSeekSlider](https://badges.gitter.im/WorldDownTown/RangeSeekSlider.svg)](https://gitter.im/WorldDownTown/RangeSeekSlider?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![License](https://img.shields.io/:license-mit-blue.svg)](https://doge.mit-license.org)
-[![Language](https://img.shields.io/badge/language-swift-orange.svg?style=flat)](https://developer.apple.com/swift)
+[![Language](https://img.shields.io/badge/language-swift4.2-orange.svg?style=flat)](https://developer.apple.com/swift)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods compatible](https://img.shields.io/cocoapods/v/RangeSeekSlider.svg?style=flat)](http://cocoadocs.org/docsets/RangeSeekSlider/)
 [![Downloads with CocoaPods](https://img.shields.io/cocoapods/dt/RangeSeekSlider.svg)](http://cocoadocs.org/docsets/RangeSeekSlider/)
